@@ -1,0 +1,23 @@
+{
+  "name": "unit-and-integration-testing-w10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./unitTest/test.js",
+    "unitTest": "mocha ./unitTest/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-two/unit-and-integration-testing-w10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas-two/unit-and-integration-testing-w10/issues"
+  },
+  "homepage": "https://github.com/lucas-two/unit-and-integration-testing-w10#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
